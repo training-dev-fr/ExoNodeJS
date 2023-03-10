@@ -30,4 +30,4 @@ Pour tester l'api, utiliser un outils comme postman ou talend api tester
 
 ### MDP
 
-Le mot de passe de l'utilisateur est 1395azffez1564zd6s4d6z8e4f
+Le mot de passe de l'utilisateur est projet-nodejs
